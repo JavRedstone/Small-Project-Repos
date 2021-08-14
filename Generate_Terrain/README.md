@@ -10,7 +10,7 @@ https://htmlpreview.github.io/?https://github.com/JavRedstone/Small-Project-Repo
 
 Here is a demo image:
 
-![Example mountain output in html document](https://github.com/JavRedstone/Small-Projects-Repos/blob/main/Generate_Terrain/terrain.png)
+![Example mountain output in html document](https://github.com/JavRedstone/Small-Project-Repos/blob/main/Generate_Terrain/terrain.png)
 
 You can download this yourself and open the html document in browser to view the results too.
 
