@@ -6,11 +6,11 @@ To visualize the mountain, an html document is needed. Beware of higher values i
 
 To visualize this, an html document is needed, which can be seen here: 
 
-https://htmlpreview.github.io/?https://github.com/JavRedstone/Generate-Mountain/blob/main/index.html
+https://htmlpreview.github.io/?https://github.com/JavRedstone/Small-Project-Repos/blob/main/Generate_Mountain/index.html
 
 Here is a demo image:
 
-![Example mountain output in html document](https://github.com/JavRedstone/Generate-Mountain/blob/main/mountain.png)
+![Example mountain output in html document](https://github.com/JavRedstone/Small-Project-Repos/blob/main/Generate_Mountain/mountain.png)
 
 You can download this yourself and open the html document in browser to view the results too.
 
