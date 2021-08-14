@@ -6,11 +6,11 @@ It uses double arrays in order to damp randomly generated values from 0 to 1, to
 
 To visualize this, an html document is needed, which can be seen here: 
 
-https://htmlpreview.github.io/?https://github.com/JavRedstone/Generate-Terrain/blob/main/index.html
+https://htmlpreview.github.io/?https://github.com/JavRedstone/Small-Project-Repos/blob/main/Generate_Terrain/index.html
 
 Here is a demo image:
 
-![Example mountain output in html document](https://github.com/JavRedstone/Generate-Terrain/blob/main/terrain.png)
+![Example mountain output in html document](https://github.com/JavRedstone/Small-Projects-Repos/blob/main/Generate_Terrain/terrain.png)
 
 You can download this yourself and open the html document in browser to view the results too.
 
