@@ -35,8 +35,8 @@ const generate_terrain = (n, a) => {
             const wrapper = document.getElementById("wrapper");
             wrapper.append(terrain);
             terrain.style.position = "absolute";
-            terrain.style.left = j * 500/n + "px";
-            terrain.style.top = i * 500/n + "px";
+            terrain.style.left = i * 500/n + "px";
+            terrain.style.top = j * 500/n + "px";
             terrain.style.width = 500/n + "px";
             terrain.style.height = 500/n + "px";
             terrain.style.backgroundColor = "black";
