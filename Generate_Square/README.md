@@ -6,7 +6,7 @@ To modify the number of squares generated, given length `n`, change the value of
 
 An example with 10 as `n` (I personally feel 10 is the best):
 
-```
+`
 🟦🟧🟩🟪🟦🟧🟥🟪🟫🟧
 🟫🟩🟪🟩🟩⬜🟫⬜🟩🟥
 🟧🟧🟨⬜🟫🟪🟧🟦⬜🟧
@@ -17,6 +17,6 @@ An example with 10 as `n` (I personally feel 10 is the best):
 🟧🟫🟩🟨⬛🟪🟥⬛🟦⬜
 🟫🟫⬛🟨🟩🟩🟥🟦🟪🟦
 ⬜🟥🟧🟧🟧🟩🟨⬜🟫⬜
-```
+`
 
 Enjoy!
