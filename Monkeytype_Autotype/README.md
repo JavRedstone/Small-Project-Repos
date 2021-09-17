@@ -15,7 +15,7 @@ Steps:
 5. With the current settings, you should get around 760 to 770 wpm in the `words 100` configuration in monkeytype.
 6. Play around with the settings for different monkeytype modes / to acheive different wpms. You can get "infinite" wpm when setting the `interval` variable in `monkeytype_autotype.py` to 0 (right now it is 0.01).
 
-**Example result of monkeytype_autotype**
+**Example result of monkeytype_autotype**:
 ![result](https://github.com/JavRedstone/Small-Project-Repos/blob/main/Monkeytype_Autotype/Monkeytype_Autotype_Example_Result.PNG)
 
 Enjoy!
