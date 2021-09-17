@@ -8,7 +8,7 @@ Steps:
 2. Copy the output (Make sure not to copy) the debugger number (e.g.: VM36:8).
 
 **Example of potential output**:
-```line will off hold call few at but form open early these long get feel plan by between word should so over but for school much over year interest high keep come as when large any she group public ask even or last he just could against like end play late early order because large high find will public so open set state could become hold fact use these tell want those after over which out problem not say may begin now time while out part need call many so because how would again very there should through group follow ```
+`line will off hold call few at but form open early these long get feel plan by between word should so over but for school much over year interest high keep come as when large any she group public ask even or last he just could against like end play late early order because large high find will public so open set state could become hold fact use these tell want those after over which out problem not say may begin now time while out part need call many so because how would again very there should through group follow `
 
 3. Run the `monkeytype_autotype.py` file, and when it promps to ask for the console.log output, paste what you have, press enter.
 4. Make sure to switch tabs fast enough and to put monkeytype on focus in order for the stimulated key presses to happen -- there is a three second delay between the enter of the output and the typing.
