@@ -16,6 +16,6 @@ Steps:
 6. Play around with the settings for different monkeytype modes / to acheive different wpms. You can get "infinite" wpm when setting the `interval` variable in `monkeytype_autotype.py` to 0 (right now it is 0.01).
 
 **Example result of monkeytype_autotype**
-https://github.com/JavRedstone/Small-Project-Repos/blob/main/Monkeytype_Autotype/Monkeytype_Autotype_Example_Result.PNG
+![result](https://github.com/JavRedstone/Small-Project-Repos/blob/main/Monkeytype_Autotype/Monkeytype_Autotype_Example_Result.PNG)
 
 Enjoy!
