@@ -4,6 +4,8 @@ Autotyper for monkeytype, "https://monkeytype.com/", used for entertainment purp
 
 Steps:
 
+*BEFORE FOLLOWING THESE STEPS, MAKE SURE YOU HAVE PYTHON INSTALLED AND THAT YOU HAVE INSTALLED `pyautogui` VIA `pip install pyautogui`*
+
 1. Open the inspect window on monkeytype, switch to console view, and paste in the code from `monkeytype_autotype.js`, press enter.
 2. Copy the output (Make sure not to copy) the debugger number (e.g.: VM36:8).
 
