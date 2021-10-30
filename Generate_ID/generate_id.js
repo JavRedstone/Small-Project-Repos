@@ -4,7 +4,7 @@ const char_list = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "
 // generate_id function
 const generate_id = (l) => {
     var id = "";
-    for (let i = 0; i < l; i++) id += char_list[Math.round(Math.random() * (char_list.length - 1))];
+    for (let i = 0; i < l; i++) id += char_list[Math.round(Math.random() * (char_list.length))];
     return id;
 }
 
